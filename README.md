@@ -1,4 +1,4 @@
-<a href='https://play.google.com/store/apps/details?id=com.shenmareparas.chess'><img alt='App Icon' src="https://github.com/akm1311/Chess/assets/112749923/54c38dbd-7a06-416e-8419-09f27654cbcd" width = 250/></a>
+<a href='https://play.google.com/store/apps/details?id=com.shenmareparas.chess'><img alt='App Icon' src="https://github.com/akm1311/Chess/blob/df7f56b6bda699794e00469e125d000c2f77e2b8/assets/icons/icon.png" width = 250/></a>
 
 # Chess
 
